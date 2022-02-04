@@ -4,7 +4,7 @@ import org.junit.*;
 public class Tester {
     @Test
     public void Test() {
-        assertTrue(MyFile.isSizeEqual("asdf", "add"));
+        assertTrue(MyFile.isSizeEqual("add", "add"));
     }
     
 }
